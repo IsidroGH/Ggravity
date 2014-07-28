@@ -20,7 +20,7 @@ Note: At the time of the developing 2011, all files had to be in the root level 
 
 For more information: 
 
-  sites.google.com/site/ggravitysoft
+  http://sites.google.com/site/ggravitysoft
   
-  www.youtube.com/watch?v=DCHfORSXXmk
+  http://www.youtube.com/watch?v=DCHfORSXXmk
   
