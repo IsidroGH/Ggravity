@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Leaderboards</key>
+  <dict>
+	
+	<!-- Ggravity -->
+	<key>814266</key>
+    <string>Block1</string>
+	<key>814356</key>
+    <string>Block2</string>
+	<key>814366</key>
+    <string>Block3</string>
+	<key>814376</key>
+    <string>Block4</string>
+
+    <key>864486</key>
+    <string>GGTotalScore</string>
+
+	<!-- Ggravity Free -->
+	<key>849676</key>
+    <string>Block1Free</string>
+
+  </dict>
+  <key>Achievements</key>
+  <dict>
+	
+	<!-- Ggravity Free -->
+	<key>1131342</key>
+	<string>Block1FreeCompleted</string>
+	
+	<key>1131352</key>
+	<string>L4Free</string>
+	
+	<!-- Ggravity -->
+	<key>1076872</key>
+	<string>Block1Completed</string>
+	<key>1080332</key>
+	<string>Block2Completed</string>
+	<key>1080342</key>
+	<string>Block3Completed</string>
+	<key>1076862</key>
+	<string>Block4Completed</string>
+	<key>1080362</key>
+	<string>L6</string>
+	<key>1080372</key>
+	<string>L15</string>
+	<key>1080382</key>
+	<string>L4</string>
+	<key>1080392</key>
+	<string>L9</string>
+	<key>1080402</key>
+	<string>L12</string>
+	<key>1080412</key>
+	<string>L17</string>
+	<key>1080422</key>
+	<string>L20</string>
+	
+  </dict>
+</dict>
+</plist>

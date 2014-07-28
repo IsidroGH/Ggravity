@@ -1,0 +1,35 @@
+settings =
+{ 
+        orientation =
+        {
+          default = "landscapeLeft",
+					supported =
+					{
+							"landscapeLeft", "landscapeRight"					},
+        },
+ 
+        iphone =
+        {
+                plist =
+                {
+					MinimumOSVersion="3.2.0",
+                    CFBundleIconFile = "Icon.png",
+                    CFBundleIconFiles = {
+                                                "Icon.png" , 
+                                                "Icon@2x.png" , 
+                                                "Icon-72.png" , 
+                                                "Icon-Small-50.png" , 
+                                                "Icon-Small.png" , 
+                                                "Icon-Small@2x.png"
+                                        },
+                    CFBundleDisplayName = "Ggravity",
+                    UIPrerenderedIcon = true,
+                    UIStatusBarHidden = true,
+                    UIApplicationExitsOnSuspend = true,
+					UIAppFonts = 
+					{
+                      	"chubby.ttf"
+                    }
+                },
+        }
+}
