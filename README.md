@@ -17,3 +17,8 @@ Ggravity is a game for iOS developed with Corona SDK in LUA.
 It's integrated with OpenFeint and Game Center
 
 Note: At the time of the developing 2011, all files had to be in the root level to work.
+
+For more information: 
+  sites.google.com/site/ggravitysoft
+  www.youtube.com/watch?v=DCHfORSXXmk
+  
